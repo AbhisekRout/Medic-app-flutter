@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455364219670",
+    "firebase_url": "https://the-medic-179f7.firebaseio.com",
+    "project_id": "the-medic-179f7",
+    "storage_bucket": "the-medic-179f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455364219670:android:7d115f688edff70e343637",
+        "android_client_info": {
+          "package_name": "com.ingeniouswiz.medic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455364219670-2j5r5q6qv4b42ba8mqjl5tvf6dafor6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSamvUqwQngRwFLUSCaZUNCdKI77vAQqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455364219670-2j5r5q6qv4b42ba8mqjl5tvf6dafor6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
